@@ -1,0 +1,1234 @@
+{
+  "@@last_modified": "2019-07-07T05:18:05.697110",
+  "title": "Avalanche",
+  "@title": {
+    "description": "The application title",
+    "type": "text",
+    "placeholders": {}
+  },
+  "commentContainerCommentCountSingle": "comment",
+  "@commentContainerCommentCountSingle": {
+    "type": "text",
+    "placeholders": {}
+  },
+  "commentContainerCommentCountPlural": "comments",
+  "@commentContainerCommentCountPlural": {
+    "type": "text",
+    "placeholders": {}
+  },
+  "commentItemDeleteDialogTitle": "Are you sure?",
+  "@commentItemDeleteDialogTitle": {
+    "type": "text",
+    "placeholders": {}
+  },
+  "commentItemDeleteDialogContent": "You will not be able to recover a deleted post.",
+  "@commentItemDeleteDialogContent": {
+    "type": "text",
+    "placeholders": {}
+  },
+  "commentItemDeleteDialogCancelButton": "Cancel",
+  "@commentItemDeleteDialogCancelButton": {
+    "type": "text",
+    "placeholders": {}
+  },
+  "commentItemDeleteDialogOkayButton": "Delete",
+  "@commentItemDeleteDialogOkayButton": {
+    "type": "text",
+    "placeholders": {}
+  },
+  "commentItemDeleteDialogSnackBar": "Post deleted",
+  "@commentItemDeleteDialogSnackBar": {
+    "type": "text",
+    "placeholders": {}
+  },
+  "commentItemLinkSnackBar": "Link copied",
+  "@commentItemLinkSnackBar": {
+    "type": "text",
+    "placeholders": {}
+  },
+  "commentItemMuteDialogTitle": "Are you sure?",
+  "@commentItemMuteDialogTitle": {
+    "type": "text",
+    "placeholders": {}
+  },
+  "commentItemMuteDialogContent": "You will not be notified about any activities from this post.",
+  "@commentItemMuteDialogContent": {
+    "type": "text",
+    "placeholders": {}
+  },
+  "commentItemMuteDialogCancelButton": "Cancel",
+  "@commentItemMuteDialogCancelButton": {
+    "type": "text",
+    "placeholders": {}
+  },
+  "commentItemMuteDialogOkayButton": "Mute",
+  "@commentItemMuteDialogOkayButton": {
+    "type": "text",
+    "placeholders": {}
+  },
+  "commentItemMuteDialogSnackBar": "Post muted",
+  "@commentItemMuteDialogSnackBar": {
+    "type": "text",
+    "placeholders": {}
+  },
+  "commentItemUnmuteDialogTitle": "Are you sure?",
+  "@commentItemUnmuteDialogTitle": {
+    "type": "text",
+    "placeholders": {}
+  },
+  "commentItemUnmuteDialogContent": "You will be notified about all activities from this post.",
+  "@commentItemUnmuteDialogContent": {
+    "type": "text",
+    "placeholders": {}
+  },
+  "commentItemUnmuteDialogCancelButton": "Cancel",
+  "@commentItemUnmuteDialogCancelButton": {
+    "type": "text",
+    "placeholders": {}
+  },
+  "commentItemUnmuteDialogOkayButton": "Unmute",
+  "@commentItemUnmuteDialogOkayButton": {
+    "type": "text",
+    "placeholders": {}
+  },
+  "commentItemUnmuteDialogSnackBar": "Post unmuted",
+  "@commentItemUnmuteDialogSnackBar": {
+    "type": "text",
+    "placeholders": {}
+  },
+  "commentItemBlockDialogTitle": "Are you sure?",
+  "@commentItemBlockDialogTitle": {
+    "type": "text",
+    "placeholders": {}
+  },
+  "commentItemBlockDialogContent": "You will unfollow this user and stop being notified by any activities from this user, such as posts and replies.",
+  "@commentItemBlockDialogContent": {
+    "type": "text",
+    "placeholders": {}
+  },
+  "commentItemBlockDialogCancelButton": "Cancel",
+  "@commentItemBlockDialogCancelButton": {
+    "type": "text",
+    "placeholders": {}
+  },
+  "commentItemBlockDialogOkayButton": "Block",
+  "@commentItemBlockDialogOkayButton": {
+    "type": "text",
+    "placeholders": {}
+  },
+  "commentItemBlockDialogSnackBar": "User blocked",
+  "@commentItemBlockDialogSnackBar": {
+    "type": "text",
+    "placeholders": {}
+  },
+  "commentItemUnblockDialogTitle": "Are you sure?",
+  "@commentItemUnblockDialogTitle": {
+    "type": "text",
+    "placeholders": {}
+  },
+  "commentItemUnblockDialogContent": "You will get updates from this user.",
+  "@commentItemUnblockDialogContent": {
+    "type": "text",
+    "placeholders": {}
+  },
+  "commentItemUnblockDialogCancelButton": "Cancel",
+  "@commentItemUnblockDialogCancelButton": {
+    "type": "text",
+    "placeholders": {}
+  },
+  "commentItemUnblockDialogOkayButton": "Unblock",
+  "@commentItemUnblockDialogOkayButton": {
+    "type": "text",
+    "placeholders": {}
+  },
+  "commentItemUnblockDialogSnackBar": "User unblocked",
+  "@commentItemUnblockDialogSnackBar": {
+    "type": "text",
+    "placeholders": {}
+  },
+  "commentItemReportDialogTitle": "Are you sure?",
+  "@commentItemReportDialogTitle": {
+    "type": "text",
+    "placeholders": {}
+  },
+  "commentItemReportDialogContent": "You are about to report this post from this user. This might result in such as but not limited to deletion of reported post, temporary or permenent ban of the user from server.\n\nPlease confirm before sending the report.",
+  "@commentItemReportDialogContent": {
+    "type": "text",
+    "placeholders": {}
+  },
+  "commentItemReportDialogCancelButton": "Cancel",
+  "@commentItemReportDialogCancelButton": {
+    "type": "text",
+    "placeholders": {}
+  },
+  "commentItemReportDialogOkayButton": "I understand, report",
+  "@commentItemReportDialogOkayButton": {
+    "type": "text",
+    "placeholders": {}
+  },
+  "commentItemReportDialogSnackBar": "Report sent",
+  "@commentItemReportDialogSnackBar": {
+    "type": "text",
+    "placeholders": {}
+  },
+  "commentItemPopupMenuDelete": "Delete this post",
+  "@commentItemPopupMenuDelete": {
+    "type": "text",
+    "placeholders": {}
+  },
+  "commentItemPopupMenuEdit": "Edit this post",
+  "@commentItemPopupMenuEdit": {
+    "type": "text",
+    "placeholders": {}
+  },
+  "commentItemPopupMenuLink": "Copy post link",
+  "@commentItemPopupMenuLink": {
+    "type": "text",
+    "placeholders": {}
+  },
+  "commentItemPopupMenuUnmute": "Unmute this post",
+  "@commentItemPopupMenuUnmute": {
+    "type": "text",
+    "placeholders": {}
+  },
+  "commentItemPopupMenuMute": "Mute this post",
+  "@commentItemPopupMenuMute": {
+    "type": "text",
+    "placeholders": {}
+  },
+  "commentItemPopupMenuBlock": "Block this user",
+  "@commentItemPopupMenuBlock": {
+    "type": "text",
+    "placeholders": {}
+  },
+  "commentItemPopupMenuUnblock": "Unblock this user",
+  "@commentItemPopupMenuUnblock": {
+    "type": "text",
+    "placeholders": {}
+  },
+  "commentItemPopupMenuReport": "Report this user",
+  "@commentItemPopupMenuReport": {
+    "type": "text",
+    "placeholders": {}
+  },
+  "commentItemSensitiveContent": "Sensitive content, tap to view.",
+  "@commentItemSensitiveContent": {
+    "type": "text",
+    "placeholders": {}
+  },
+  "commentItemContentError": "Can't display content.",
+  "@commentItemContentError": {
+    "type": "text",
+    "placeholders": {}
+  },
+  "commentItemPhotoCount": "Photos",
+  "@commentItemPhotoCount": {
+    "type": "text",
+    "placeholders": {}
+  },
+  "loginFormTextFieldLabel": "Website",
+  "@loginFormTextFieldLabel": {
+    "type": "text",
+    "placeholders": {}
+  },
+  "loginFormTextFieldValidatorText": "Please enter your website.",
+  "@loginFormTextFieldValidatorText": {
+    "type": "text",
+    "placeholders": {}
+  },
+  "loginFormLoginButton": "Log in",
+  "@loginFormLoginButton": {
+    "type": "text",
+    "placeholders": {}
+  },
+  "customFormCancelDialogTitle": "Are you sure?",
+  "@customFormCancelDialogTitle": {
+    "type": "text",
+    "placeholders": {}
+  },
+  "customFormCancelDialogContent": "Comment not shared will be lost.",
+  "@customFormCancelDialogContent": {
+    "type": "text",
+    "placeholders": {}
+  },
+  "customFormCancelDialogCancelButton": "No",
+  "@customFormCancelDialogCancelButton": {
+    "type": "text",
+    "placeholders": {}
+  },
+  "customFormCancelDialogOkayButton": "Yes",
+  "@customFormCancelDialogOkayButton": {
+    "type": "text",
+    "placeholders": {}
+  },
+  "customFormTextFieldHint": "What do you want to share",
+  "@customFormTextFieldHint": {
+    "type": "text",
+    "placeholders": {}
+  },
+  "customFormTextFieldLabel": "Add a comment...",
+  "@customFormTextFieldLabel": {
+    "type": "text",
+    "placeholders": {}
+  },
+  "customFormVisibilityDialogTitle": "Who do you want to share with",
+  "@customFormVisibilityDialogTitle": {
+    "type": "text",
+    "placeholders": {}
+  },
+  "customFormVisibilityDialogPublicTitle": "Public",
+  "@customFormVisibilityDialogPublicTitle": {
+    "type": "text",
+    "placeholders": {}
+  },
+  "customFormVisibilityDialogPublicSubtitle": "Post to public timelines",
+  "@customFormVisibilityDialogPublicSubtitle": {
+    "type": "text",
+    "placeholders": {}
+  },
+  "customFormVisibilityDialogUnlistedTitle": "Unlisted",
+  "@customFormVisibilityDialogUnlistedTitle": {
+    "type": "text",
+    "placeholders": {}
+  },
+  "customFormVisibilityDialogUnlistedSubtitle": "Do not post to public timelines",
+  "@customFormVisibilityDialogUnlistedSubtitle": {
+    "type": "text",
+    "placeholders": {}
+  },
+  "customFormVisibilityDialogPrivateTitle": "Private",
+  "@customFormVisibilityDialogPrivateTitle": {
+    "type": "text",
+    "placeholders": {}
+  },
+  "customFormVisibilityDialogPrivateSubtitle": "Post to followers only",
+  "@customFormVisibilityDialogPrivateSubtitle": {
+    "type": "text",
+    "placeholders": {}
+  },
+  "customFormVisibilityDialogDirectTitle": "Direct",
+  "@customFormVisibilityDialogDirectTitle": {
+    "type": "text",
+    "placeholders": {}
+  },
+  "customFormVisibilityDialogDirectSubtitle": "Post to mentioned users only",
+  "@customFormVisibilityDialogDirectSubtitle": {
+    "type": "text",
+    "placeholders": {}
+  },
+  "customFormCancelButton": "Cancel",
+  "@customFormCancelButton": {
+    "type": "text",
+    "placeholders": {}
+  },
+  "customFormPostButton": "Post",
+  "@customFormPostButton": {
+    "type": "text",
+    "placeholders": {}
+  },
+  "photoViewerBackButton": "Back",
+  "@photoViewerBackButton": {
+    "type": "text",
+    "placeholders": {}
+  },
+  "photoViewerDownloadButton": "Download image",
+  "@photoViewerDownloadButton": {
+    "type": "text",
+    "placeholders": {}
+  },
+  "shareDialogCancelDialogTitle": "Are you sure?",
+  "@shareDialogCancelDialogTitle": {
+    "type": "text",
+    "placeholders": {}
+  },
+  "shareDialogCancelDialogContent": "Post not shared will be lost.",
+  "@shareDialogCancelDialogContent": {
+    "type": "text",
+    "placeholders": {}
+  },
+  "shareDialogCancelDialogCancelButton": "No",
+  "@shareDialogCancelDialogCancelButton": {
+    "type": "text",
+    "placeholders": {}
+  },
+  "shareDialogCancelDialogOkayButton": "Yes",
+  "@shareDialogCancelDialogOkayButton": {
+    "type": "text",
+    "placeholders": {}
+  },
+  "shareDialogTextFieldHint": "What do you want to share",
+  "@shareDialogTextFieldHint": {
+    "type": "text",
+    "placeholders": {}
+  },
+  "shareDialogSpoilerTextFieldHint": "Type your warning",
+  "@shareDialogSpoilerTextFieldHint": {
+    "type": "text",
+    "placeholders": {}
+  },
+  "shareDialogVisibilityDialogTitle": "Who do you want to share with",
+  "@shareDialogVisibilityDialogTitle": {
+    "type": "text",
+    "placeholders": {}
+  },
+  "shareDialogVisibilityDialogPublicTitle": "Public",
+  "@shareDialogVisibilityDialogPublicTitle": {
+    "type": "text",
+    "placeholders": {}
+  },
+  "shareDialogVisibilityDialogPublicSubtitle": "Post to public timelines",
+  "@shareDialogVisibilityDialogPublicSubtitle": {
+    "type": "text",
+    "placeholders": {}
+  },
+  "shareDialogVisibilityDialogUnlistedTitle": "Unlisted",
+  "@shareDialogVisibilityDialogUnlistedTitle": {
+    "type": "text",
+    "placeholders": {}
+  },
+  "shareDialogVisibilityDialogUnlistedSubtitle": "Do not post to public timelines",
+  "@shareDialogVisibilityDialogUnlistedSubtitle": {
+    "type": "text",
+    "placeholders": {}
+  },
+  "shareDialogVisibilityDialogPrivateTitle": "Private",
+  "@shareDialogVisibilityDialogPrivateTitle": {
+    "type": "text",
+    "placeholders": {}
+  },
+  "shareDialogVisibilityDialogPrivateSubtitle": "Post to followers only",
+  "@shareDialogVisibilityDialogPrivateSubtitle": {
+    "type": "text",
+    "placeholders": {}
+  },
+  "shareDialogVisibilityDialogDirectTitle": "Direct",
+  "@shareDialogVisibilityDialogDirectTitle": {
+    "type": "text",
+    "placeholders": {}
+  },
+  "shareDialogVisibilityDialogDirectSubtitle": "Post to mentioned users only",
+  "@shareDialogVisibilityDialogDirectSubtitle": {
+    "type": "text",
+    "placeholders": {}
+  },
+  "shareDialogPostButton": "Post",
+  "@shareDialogPostButton": {
+    "type": "text",
+    "placeholders": {}
+  },
+  "statusCardDeleteDialogTitle": "Are you sure?",
+  "@statusCardDeleteDialogTitle": {
+    "type": "text",
+    "placeholders": {}
+  },
+  "statusCardDeleteDialogContent": "You will not be able to recover a deleted post.",
+  "@statusCardDeleteDialogContent": {
+    "type": "text",
+    "placeholders": {}
+  },
+  "statusCardDeleteDialogCancelButton": "Cancel",
+  "@statusCardDeleteDialogCancelButton": {
+    "type": "text",
+    "placeholders": {}
+  },
+  "statusCardDeleteDialogOkayButton": "Delete",
+  "@statusCardDeleteDialogOkayButton": {
+    "type": "text",
+    "placeholders": {}
+  },
+  "statusCardDeleteDialogSnackBar": "Post deleted",
+  "@statusCardDeleteDialogSnackBar": {
+    "type": "text",
+    "placeholders": {}
+  },
+  "statusCardLinkSnackBar": "Link copied",
+  "@statusCardLinkSnackBar": {
+    "type": "text",
+    "placeholders": {}
+  },
+  "statusCardMuteDialogTitle": "Are you sure?",
+  "@statusCardMuteDialogTitle": {
+    "type": "text",
+    "placeholders": {}
+  },
+  "statusCardMuteDialogContent": "You will not be notified about any activities from this post.",
+  "@statusCardMuteDialogContent": {
+    "type": "text",
+    "placeholders": {}
+  },
+  "statusCardMuteDialogCancelButton": "Cancel",
+  "@statusCardMuteDialogCancelButton": {
+    "type": "text",
+    "placeholders": {}
+  },
+  "statusCardMuteDialogOkayButton": "Mute",
+  "@statusCardMuteDialogOkayButton": {
+    "type": "text",
+    "placeholders": {}
+  },
+  "statusCardMuteDialogSnackBar": "Post muted",
+  "@statusCardMuteDialogSnackBar": {
+    "type": "text",
+    "placeholders": {}
+  },
+  "statusCardUnmuteDialogTitle": "Are you sure?",
+  "@statusCardUnmuteDialogTitle": {
+    "type": "text",
+    "placeholders": {}
+  },
+  "statusCardUnmuteDialogContent": "You will be notified about all activities from this post.",
+  "@statusCardUnmuteDialogContent": {
+    "type": "text",
+    "placeholders": {}
+  },
+  "statusCardUnmuteDialogCancelButton": "Cancel",
+  "@statusCardUnmuteDialogCancelButton": {
+    "type": "text",
+    "placeholders": {}
+  },
+  "statusCardUnmuteDialogOkayButton": "Unmute",
+  "@statusCardUnmuteDialogOkayButton": {
+    "type": "text",
+    "placeholders": {}
+  },
+  "statusCardUnmuteDialogSnackBar": "Post unmuted",
+  "@statusCardUnmuteDialogSnackBar": {
+    "type": "text",
+    "placeholders": {}
+  },
+  "statusCardBlockDialogTitle": "Are you sure?",
+  "@statusCardBlockDialogTitle": {
+    "type": "text",
+    "placeholders": {}
+  },
+  "statusCardBlockDialogContent": "You will unfollow this user and stop being notified by any activities from this user, such as posts and replies.",
+  "@statusCardBlockDialogContent": {
+    "type": "text",
+    "placeholders": {}
+  },
+  "statusCardBlockDialogCancelButton": "Cancel",
+  "@statusCardBlockDialogCancelButton": {
+    "type": "text",
+    "placeholders": {}
+  },
+  "statusCardBlockDialogOkayButton": "Block",
+  "@statusCardBlockDialogOkayButton": {
+    "type": "text",
+    "placeholders": {}
+  },
+  "statusCardBlockDialogSnackBar": "User blocked",
+  "@statusCardBlockDialogSnackBar": {
+    "type": "text",
+    "placeholders": {}
+  },
+  "statusCardUnblockDialogTitle": "Are you sure?",
+  "@statusCardUnblockDialogTitle": {
+    "type": "text",
+    "placeholders": {}
+  },
+  "statusCardUnblockDialogContent": "You will get updates from this user.",
+  "@statusCardUnblockDialogContent": {
+    "type": "text",
+    "placeholders": {}
+  },
+  "statusCardUnblockDialogCancelButton": "Cancel",
+  "@statusCardUnblockDialogCancelButton": {
+    "type": "text",
+    "placeholders": {}
+  },
+  "statusCardUnblockDialogOkayButton": "Unblock",
+  "@statusCardUnblockDialogOkayButton": {
+    "type": "text",
+    "placeholders": {}
+  },
+  "statusCardUnblockDialogSnackBar": "User unblocked",
+  "@statusCardUnblockDialogSnackBar": {
+    "type": "text",
+    "placeholders": {}
+  },
+  "statusCardReportDialogTitle": "Are you sure?",
+  "@statusCardReportDialogTitle": {
+    "type": "text",
+    "placeholders": {}
+  },
+  "statusCardReportDialogContent": "You are about to report this post from this user. This might result in such as but not limited to deletion of reported post, temporary or permenent ban of the user from server.\n\nPlease confirm before sending the report.",
+  "@statusCardReportDialogContent": {
+    "type": "text",
+    "placeholders": {}
+  },
+  "statusCardReportDialogCancelButton": "Cancel",
+  "@statusCardReportDialogCancelButton": {
+    "type": "text",
+    "placeholders": {}
+  },
+  "statusCardReportDialogOkayButton": "I understand, report",
+  "@statusCardReportDialogOkayButton": {
+    "type": "text",
+    "placeholders": {}
+  },
+  "statusCardReportDialogSnackBar": "Report sent",
+  "@statusCardReportDialogSnackBar": {
+    "type": "text",
+    "placeholders": {}
+  },
+  "statusCardPopupMenuDelete": "Delete this post",
+  "@statusCardPopupMenuDelete": {
+    "type": "text",
+    "placeholders": {}
+  },
+  "statusCardPopupMenuEdit": "Edit this post",
+  "@statusCardPopupMenuEdit": {
+    "type": "text",
+    "placeholders": {}
+  },
+  "statusCardPopupMenuLink": "Copy post link",
+  "@statusCardPopupMenuLink": {
+    "type": "text",
+    "placeholders": {}
+  },
+  "statusCardPopupMenuUnmute": "Unmute this post",
+  "@statusCardPopupMenuUnmute": {
+    "type": "text",
+    "placeholders": {}
+  },
+  "statusCardPopupMenuMute": "Mute this post",
+  "@statusCardPopupMenuMute": {
+    "type": "text",
+    "placeholders": {}
+  },
+  "statusCardPopupMenuBlock": "Block this user",
+  "@statusCardPopupMenuBlock": {
+    "type": "text",
+    "placeholders": {}
+  },
+  "statusCardPopupMenuUnblock": "Unblock this user",
+  "@statusCardPopupMenuUnblock": {
+    "type": "text",
+    "placeholders": {}
+  },
+  "statusCardPopupMenuReport": "Report this user",
+  "@statusCardPopupMenuReport": {
+    "type": "text",
+    "placeholders": {}
+  },
+  "statusCardSensitiveContent": "Sensitive content, tap to view.",
+  "@statusCardSensitiveContent": {
+    "type": "text",
+    "placeholders": {}
+  },
+  "statusCardContentError": "Can't display content.",
+  "@statusCardContentError": {
+    "type": "text",
+    "placeholders": {}
+  },
+  "statusCardPhotoCount": "Photos",
+  "@statusCardPhotoCount": {
+    "type": "text",
+    "placeholders": {}
+  },
+  "statusCardSlideMenuUnmute": "Unmute",
+  "@statusCardSlideMenuUnmute": {
+    "type": "text",
+    "placeholders": {}
+  },
+  "statusCardSlideMenuMute": "Mute",
+  "@statusCardSlideMenuMute": {
+    "type": "text",
+    "placeholders": {}
+  },
+  "statusCardSlideMenuReblogRemove": "Remove",
+  "@statusCardSlideMenuReblogRemove": {
+    "type": "text",
+    "placeholders": {}
+  },
+  "statusCardSlideMenuReblog": "Reshare",
+  "@statusCardSlideMenuReblog": {
+    "type": "text",
+    "placeholders": {}
+  },
+  "statusCardSlideMenuFavouriteRemove": "Remove",
+  "@statusCardSlideMenuFavouriteRemove": {
+    "type": "text",
+    "placeholders": {}
+  },
+  "statusCardSlideMenuFavourite": "This post",
+  "@statusCardSlideMenuFavourite": {
+    "type": "text",
+    "placeholders": {}
+  },
+  "mainScreenFrontTitle": "VALANCHE",
+  "@mainScreenFrontTitle": {
+    "type": "text",
+    "placeholders": {}
+  },
+  "mainScreenToastText": "Press again to exit",
+  "@mainScreenToastText": {
+    "type": "text",
+    "placeholders": {}
+  },
+  "mainScreenBackTitle": "MENU",
+  "@mainScreenBackTitle": {
+    "type": "text",
+    "placeholders": {}
+  },
+  "notificationsScreenTitle": "NOTIFICATIONS",
+  "@notificationsScreenTitle": {
+    "type": "text",
+    "placeholders": {}
+  },
+  "notificationsScreenNewUpdateTitle": "new notifications",
+  "@notificationsScreenNewUpdateTitle": {
+    "type": "text",
+    "placeholders": {}
+  },
+  "notificationsScreenNotificationTypeFollow": "followed you",
+  "@notificationsScreenNotificationTypeFollow": {
+    "type": "text",
+    "placeholders": {}
+  },
+  "notificationsScreenNotificationTypeReblog": "reshared your status",
+  "@notificationsScreenNotificationTypeReblog": {
+    "type": "text",
+    "placeholders": {}
+  },
+  "notificationsScreenNotificationTypeFavourite": "+1'd your status",
+  "@notificationsScreenNotificationTypeFavourite": {
+    "type": "text",
+    "placeholders": {}
+  },
+  "notificationsScreenNotificationTypeMention": "mentioned you",
+  "@notificationsScreenNotificationTypeMention": {
+    "type": "text",
+    "placeholders": {}
+  },
+  "notificationsScreenFilterAllTitle": "All",
+  "@notificationsScreenFilterAllTitle": {
+    "type": "text",
+    "placeholders": {}
+  },
+  "notificationsScreenFilterFollowTitle": "Follows",
+  "@notificationsScreenFilterFollowTitle": {
+    "type": "text",
+    "placeholders": {}
+  },
+  "notificationsScreenFilterMentionTitle": "Mentions",
+  "@notificationsScreenFilterMentionTitle": {
+    "type": "text",
+    "placeholders": {}
+  },
+  "notificationsScreenFilterReblogTitle": "Reshares",
+  "@notificationsScreenFilterReblogTitle": {
+    "type": "text",
+    "placeholders": {}
+  },
+  "notificationsScreenFilterFavouriteTitle": "+1's",
+  "@notificationsScreenFilterFavouriteTitle": {
+    "type": "text",
+    "placeholders": {}
+  },
+  "profileScreenStatsPosts": "Posts",
+  "@profileScreenStatsPosts": {
+    "type": "text",
+    "placeholders": {}
+  },
+  "profileScreenStatsFollowing": "Following",
+  "@profileScreenStatsFollowing": {
+    "type": "text",
+    "placeholders": {}
+  },
+  "profileScreenStatsFollowers": "Followers",
+  "@profileScreenStatsFollowers": {
+    "type": "text",
+    "placeholders": {}
+  },
+  "profileScreenFollowButton": "Follow",
+  "@profileScreenFollowButton": {
+    "type": "text",
+    "placeholders": {}
+  },
+  "profileScreenFollowingButton": "Following...",
+  "@profileScreenFollowingButton": {
+    "type": "text",
+    "placeholders": {}
+  },
+  "profileScreenUnfollowButton": "Unfollow",
+  "@profileScreenUnfollowButton": {
+    "type": "text",
+    "placeholders": {}
+  },
+  "profileScreenUnfollowingButton": "Unfollowing...",
+  "@profileScreenUnfollowingButton": {
+    "type": "text",
+    "placeholders": {}
+  },
+  "profileScreenRequestedButton": "Requested",
+  "@profileScreenRequestedButton": {
+    "type": "text",
+    "placeholders": {}
+  },
+  "searchScreenTitle": "SEARCH",
+  "@searchScreenTitle": {
+    "type": "text",
+    "placeholders": {}
+  },
+  "searchScreenTextFieldHint": "Type to search",
+  "@searchScreenTextFieldHint": {
+    "type": "text",
+    "placeholders": {}
+  },
+  "searchScreenCancelButton": "CANCEL",
+  "@searchScreenCancelButton": {
+    "type": "text",
+    "placeholders": {}
+  },
+  "searchScreenNextButton": "NEXT",
+  "@searchScreenNextButton": {
+    "type": "text",
+    "placeholders": {}
+  },
+  "searchScreenSearchingResultTypePeople": "People",
+  "@searchScreenSearchingResultTypePeople": {
+    "type": "text",
+    "placeholders": {}
+  },
+  "searchScreenSearchingResultTypeHashtags": "Hashtags",
+  "@searchScreenSearchingResultTypeHashtags": {
+    "type": "text",
+    "placeholders": {}
+  },
+  "searchScreenSearchingText": "Looking for something interesting...",
+  "@searchScreenSearchingText": {
+    "type": "text",
+    "placeholders": {}
+  },
+  "searchScreenNoResultText": "No results",
+  "@searchScreenNoResultText": {
+    "type": "text",
+    "placeholders": {}
+  },
+  "searchScreenSearchHintText": "Type to search...",
+  "@searchScreenSearchHintText": {
+    "type": "text",
+    "placeholders": {}
+  },
+  "searchScreenSearchHelpTitle": "ADVANCED SEARCH FORMAT",
+  "@searchScreenSearchHelpTitle": {
+    "type": "text",
+    "placeholders": {}
+  },
+  "searchScreenSearchHelpTextHashtag": "hashtag",
+  "@searchScreenSearchHelpTextHashtag": {
+    "type": "text",
+    "placeholders": {}
+  },
+  "searchScreenSearchHelpTextUser": "user",
+  "@searchScreenSearchHelpTextUser": {
+    "type": "text",
+    "placeholders": {}
+  },
+  "searchScreenSearchHelpTextStatus": "status",
+  "@searchScreenSearchHelpTextStatus": {
+    "type": "text",
+    "placeholders": {}
+  },
+  "settingsScreenTitle": "Settings",
+  "@settingsScreenTitle": {
+    "type": "text",
+    "placeholders": {}
+  },
+  "settingsScreenSensitiveContentTitle": "Sensitive content",
+  "@settingsScreenSensitiveContentTitle": {
+    "type": "text",
+    "placeholders": {}
+  },
+  "settingsScreenSensitiveContentSubtitle": "To show or hide sensitive content by default",
+  "@settingsScreenSensitiveContentSubtitle": {
+    "type": "text",
+    "placeholders": {}
+  },
+  "settingsScreenRichLinkTitle": "Link preview",
+  "@settingsScreenRichLinkTitle": {
+    "type": "text",
+    "placeholders": {}
+  },
+  "settingsScreenRichLinkSubtitle": "Automatically load images and descriptions from link in posts",
+  "@settingsScreenRichLinkSubtitle": {
+    "type": "text",
+    "placeholders": {}
+  },
+  "settingsScreenSpoilerTextTitle": "Content warning",
+  "@settingsScreenSpoilerTextTitle": {
+    "type": "text",
+    "placeholders": {}
+  },
+  "settingsScreenSpoilerTextSubtitle": "To show or hide posts that are marked with content warnings by default",
+  "@settingsScreenSpoilerTextSubtitle": {
+    "type": "text",
+    "placeholders": {}
+  },
+  "settingsScreenLoadFullSizeImageTitle": "Always load full size images",
+  "@settingsScreenLoadFullSizeImageTitle": {
+    "type": "text",
+    "placeholders": {}
+  },
+  "settingsScreenLoadFullSizeImageSubtitle": "This might incur significant data charges on cellular or metered networks",
+  "@settingsScreenLoadFullSizeImageSubtitle": {
+    "type": "text",
+    "placeholders": {}
+  },
+  "settingsScreenPersonalizationTitle": "Personalization",
+  "@settingsScreenPersonalizationTitle": {
+    "type": "text",
+    "placeholders": {}
+  },
+  "settingsScreenPersonalizationSubtitle": "Customize and make Avalanche works in your way",
+  "@settingsScreenPersonalizationSubtitle": {
+    "type": "text",
+    "placeholders": {}
+  },
+  "settingsScreenServer": "Server",
+  "@settingsScreenServer": {
+    "type": "text",
+    "placeholders": {}
+  },
+  "settingsScreenUser": "Signed in as",
+  "@settingsScreenUser": {
+    "type": "text",
+    "placeholders": {}
+  },
+  "settingsScreenSignOutButton": "Sign out",
+  "@settingsScreenSignOutButton": {
+    "type": "text",
+    "placeholders": {}
+  },
+  "settingsScreenDeveloperOptionsTitle": "Developer options",
+  "@settingsScreenDeveloperOptionsTitle": {
+    "type": "text",
+    "placeholders": {}
+  },
+  "settingsScreenDeveloperOptionsSubtitle": "Try out experimental features before they are released",
+  "@settingsScreenDeveloperOptionsSubtitle": {
+    "type": "text",
+    "placeholders": {}
+  },
+  "settingsScreenAbout": "About",
+  "@settingsScreenAbout": {
+    "type": "text",
+    "placeholders": {}
+  },
+  "settingsScreenVersion": "Version",
+  "@settingsScreenVersion": {
+    "type": "text",
+    "placeholders": {}
+  },
+  "settingsScreenVersionClipBoardSnackBar": "Version number copied",
+  "@settingsScreenVersionClipBoardSnackBar": {
+    "type": "text",
+    "placeholders": {}
+  },
+  "timelineScreenShareButton": "SHARE",
+  "@timelineScreenShareButton": {
+    "type": "text",
+    "placeholders": {}
+  },
+  "timelineScreenNewUpdateTitle": "new status",
+  "@timelineScreenNewUpdateTitle": {
+    "type": "text",
+    "placeholders": {}
+  },
+  "timelineScreenAllRead": "That's all we have for now",
+  "@timelineScreenAllRead": {
+    "type": "text",
+    "placeholders": {}
+  },
+  "visibilityTypePublic": "Public",
+  "@visibilityTypePublic": {
+    "type": "text",
+    "placeholders": {}
+  },
+  "visibilityTypeUnlisted": "Unlisted",
+  "@visibilityTypeUnlisted": {
+    "type": "text",
+    "placeholders": {}
+  },
+  "visibilityTypePrivate": "Private",
+  "@visibilityTypePrivate": {
+    "type": "text",
+    "placeholders": {}
+  },
+  "visibilityTypeDirect": "Direct",
+  "@visibilityTypeDirect": {
+    "type": "text",
+    "placeholders": {}
+  },
+  "visibilityTypeReblog": "Reshared",
+  "@visibilityTypeReblog": {
+    "type": "text",
+    "placeholders": {}
+  },
+  "visibilityTypeReblogSuffix": "'s post",
+  "@visibilityTypeReblogSuffix": {
+    "type": "text",
+    "placeholders": {}
+  },
+  "categoryMenuCategoryHome": "HOME",
+  "@categoryMenuCategoryHome": {
+    "type": "text",
+    "placeholders": {}
+  },
+  "categoryMenuCategoryProfile": "PROFILE",
+  "@categoryMenuCategoryProfile": {
+    "type": "text",
+    "placeholders": {}
+  },
+  "categoryMenuCategoryLocal": "LOCAL",
+  "@categoryMenuCategoryLocal": {
+    "type": "text",
+    "placeholders": {}
+  },
+  "categoryMenuCategoryPublic": "PUBLIC",
+  "@categoryMenuCategoryPublic": {
+    "type": "text",
+    "placeholders": {}
+  },
+  "categoryMenuCategoryMedia": "MEDIA",
+  "@categoryMenuCategoryMedia": {
+    "type": "text",
+    "placeholders": {}
+  },
+  "categoryMenuCategoryDirect": "DIRECT",
+  "@categoryMenuCategoryDirect": {
+    "type": "text",
+    "placeholders": {}
+  },
+  "categoryMenuCategorySettings": "SETTINGS",
+  "@categoryMenuCategorySettings": {
+    "type": "text",
+    "placeholders": {}
+  },
+  "categoryMenuCategoryTest": "TEST",
+  "@categoryMenuCategoryTest": {
+    "type": "text",
+    "placeholders": {}
+  },
+  "categoryMenuCategoryAccounts": "ACCOUNTS",
+  "@categoryMenuCategoryAccounts": {
+    "type": "text",
+    "placeholders": {}
+  },
+  "accountSelectorBackButton": "BACK",
+  "@accountSelectorBackButton": {
+    "type": "text",
+    "placeholders": {}
+  },
+  "accountSelectorDoneButton": "DONE",
+  "@accountSelectorDoneButton": {
+    "type": "text",
+    "placeholders": {}
+  },
+  "accountSelectorEditButton": "EDIT",
+  "@accountSelectorEditButton": {
+    "type": "text",
+    "placeholders": {}
+  },
+  "accountSelectorCloseButton": "CLOSE",
+  "@accountSelectorCloseButton": {
+    "type": "text",
+    "placeholders": {}
+  },
+  "accountSelectorAddUserButton": "Add user",
+  "@accountSelectorAddUserButton": {
+    "type": "text",
+    "placeholders": {}
+  },
+  "accountSelectorDeleteUserDialogTitle": "Remove account",
+  "@accountSelectorDeleteUserDialogTitle": {
+    "type": "text",
+    "placeholders": {}
+  },
+  "accountSelectorDeleteUserDialogContent": "You will need to sign in again.",
+  "@accountSelectorDeleteUserDialogContent": {
+    "type": "text",
+    "placeholders": {}
+  },
+  "accountSelectorDeleteUserDialogCancelButton": "Cancel",
+  "@accountSelectorDeleteUserDialogCancelButton": {
+    "type": "text",
+    "placeholders": {}
+  },
+  "accountSelectorDeleteUserDialogOkayButton": "OK",
+  "@accountSelectorDeleteUserDialogOkayButton": {
+    "type": "text",
+    "placeholders": {}
+  },
+  "developerOptionsScreenTitle": "Developer options",
+  "@developerOptionsScreenTitle": {
+    "type": "text",
+    "placeholders": {}
+  },
+  "personalizationScreenTitle": "Personalization",
+  "@personalizationScreenTitle": {
+    "type": "text",
+    "placeholders": {}
+  },
+  "themesScreenTitle": "Themes Garage",
+  "@themesScreenTitle": {
+    "type": "text",
+    "placeholders": {}
+  },
+  "commentItemReplyButton": "Reply",
+  "@commentItemReplyButton": {
+    "type": "text",
+    "placeholders": {}
+  },
+  "customFormTextFieldLabelReplyingCommentReplying": "Replying to",
+  "@customFormTextFieldLabelReplyingCommentReplying": {
+    "type": "text",
+    "placeholders": {}
+  },
+  "customFormTextFieldLabelReplyingCommentComment": "'s comment",
+  "@customFormTextFieldLabelReplyingCommentComment": {
+    "type": "text",
+    "placeholders": {}
+  },
+  "customFormTextFieldLabelReplyingPostReplying": "Replying to",
+  "@customFormTextFieldLabelReplyingPostReplying": {
+    "type": "text",
+    "placeholders": {}
+  },
+  "customFormTextFieldLabelReplyingPostComment": "'s post",
+  "@customFormTextFieldLabelReplyingPostComment": {
+    "type": "text",
+    "placeholders": {}
+  },
+  "notificationChannelName": "Activities",
+  "@notificationChannelName": {
+    "type": "text",
+    "placeholders": {}
+  },
+  "notificationChannelDescription": "Allow showing activities from users",
+  "@notificationChannelDescription": {
+    "type": "text",
+    "placeholders": {}
+  },
+  "quickActionsShortcutTypeShare": "Create new post",
+  "@quickActionsShortcutTypeShare": {
+    "type": "text",
+    "placeholders": {}
+  },
+  "quickActionsShortcutTypeNotifications": "Notifications",
+  "@quickActionsShortcutTypeNotifications": {
+    "type": "text",
+    "placeholders": {}
+  },
+  "shareDialogEditDialogTitle": "Are you sure?",
+  "@shareDialogEditDialogTitle": {
+    "type": "text",
+    "placeholders": {}
+  },
+  "shareDialogEditDialogContent": "You are going to delete the post that was selected for editing and share a new post with edited content.\n\nYou will lost +1's and reshares, and you will not able to see exisiting comments that were replied to your original post.",
+  "@shareDialogEditDialogContent": {
+    "type": "text",
+    "placeholders": {}
+  },
+  "shareDialogEditDialogCancelButton": "Cancel",
+  "@shareDialogEditDialogCancelButton": {
+    "type": "text",
+    "placeholders": {}
+  },
+  "shareDialogEditDialogOkayButton": "Confirm Editing",
+  "@shareDialogEditDialogOkayButton": {
+    "type": "text",
+    "placeholders": {}
+  },
+  "imagePickerDialogGalleryImageButton": "Pick a photo",
+  "@imagePickerDialogGalleryImageButton": {
+    "type": "text",
+    "placeholders": {}
+  },
+  "imagePickerDialogGalleryVideoButton": "Pick a video clip",
+  "@imagePickerDialogGalleryVideoButton": {
+    "type": "text",
+    "placeholders": {}
+  },
+  "imagePickerDialogCameraImageButton": "Take a photo",
+  "@imagePickerDialogCameraImageButton": {
+    "type": "text",
+    "placeholders": {}
+  },
+  "imagePickerDialogCameraVideoButton": "Record a video clip",
+  "@imagePickerDialogCameraVideoButton": {
+    "type": "text",
+    "placeholders": {}
+  },
+  "personalizationScreenThemeTitle": "Themes Garage",
+  "@personalizationScreenThemeTitle": {
+    "type": "text",
+    "placeholders": {}
+  },
+  "personalizationScreenThemeThemeBehaviorSubtitle": "Theme behavior:",
+  "@personalizationScreenThemeThemeBehaviorSubtitle": {
+    "type": "text",
+    "placeholders": {}
+  },
+  "personalizationScreenThemeActiveThemeSubtitle": "Active theme:",
+  "@personalizationScreenThemeActiveThemeSubtitle": {
+    "type": "text",
+    "placeholders": {}
+  },
+  "themesScreenThemeBehaviorTitle": "Theme behavior",
+  "@themesScreenThemeBehaviorTitle": {
+    "type": "text",
+    "placeholders": {}
+  },
+  "themesScreenThemeBehaviorSubtitle": "Choose how themes work",
+  "@themesScreenThemeBehaviorSubtitle": {
+    "type": "text",
+    "placeholders": {}
+  },
+  "themesScreenThemeTitle": "Theme",
+  "@themesScreenThemeTitle": {
+    "type": "text",
+    "placeholders": {}
+  },
+  "themesScreenThemeSubtitle": "Choose a theme to customize how the app looks",
+  "@themesScreenThemeSubtitle": {
+    "type": "text",
+    "placeholders": {}
+  },
+  "themeBehaviorSystemDefault": "Let system decide",
+  "@themeBehaviorSystemDefault": {
+    "type": "text",
+    "placeholders": {}
+  },
+  "themeBehaviorAutomaticSwitch": "Automatic switch",
+  "@themeBehaviorAutomaticSwitch": {
+    "type": "text",
+    "placeholders": {}
+  },
+  "themeBehaviorFavoriteTheme": "Select favorite theme",
+  "@themeBehaviorFavoriteTheme": {
+    "type": "text",
+    "placeholders": {}
+  },
+  "themesScreenLightThemeTitle": "Light theme",
+  "@themesScreenLightThemeTitle": {
+    "type": "text",
+    "placeholders": {}
+  },
+  "themesScreenDarkThemeTitle": "Dark theme",
+  "@themesScreenDarkThemeTitle": {
+    "type": "text",
+    "placeholders": {}
+  },
+  "themesScreenLightThemeStartTimeTitle": "Light theme starts at",
+  "@themesScreenLightThemeStartTimeTitle": {
+    "type": "text",
+    "placeholders": {}
+  },
+  "themesScreenDarkThemeStartTimeTitle": "Dark theme starts at",
+  "@themesScreenDarkThemeStartTimeTitle": {
+    "type": "text",
+    "placeholders": {}
+  }
+}
