@@ -256,7 +256,7 @@
         "type": "text",
         "placeholders": {}
     },
-    "customFormCancelDialogOkayButton": "捨つ",
+    "customFormCancelDialogOkayButton": "破棄",
     "@customFormCancelDialogOkayButton": {
         "type": "text",
         "placeholders": {}
@@ -351,7 +351,7 @@
         "type": "text",
         "placeholders": {}
     },
-    "shareDialogCancelDialogOkayButton": "捨つ",
+    "shareDialogCancelDialogOkayButton": "破棄",
     "@shareDialogCancelDialogOkayButton": {
         "type": "text",
         "placeholders": {}
