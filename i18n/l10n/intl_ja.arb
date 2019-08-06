@@ -856,7 +856,7 @@
         "type": "text",
         "placeholders": {}
     },
-    "settingsScreenSpoilerTextSubtitle": "默认显示或隐藏被标记为内容警告的帖子",
+    "settingsScreenSpoilerTextSubtitle": "内容警告で隠された内容を常に表示する",
     "@settingsScreenSpoilerTextSubtitle": {
         "type": "text",
         "placeholders": {}
